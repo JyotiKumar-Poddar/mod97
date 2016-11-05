@@ -1,6 +1,9 @@
 ### Mod97 calculation for IBAN
 #### Maven dependency: 
 
+### Mod97 calculation for IBAN
+
+- Mod97 for SEPA countries
 
 <dependency>
             <groupId>junit</groupId>
